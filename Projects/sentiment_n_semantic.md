@@ -7,7 +7,8 @@ img: assets/img/planet.jpeg
 importance: 1
 category: NLP Projects
 ---
-
+<div style="margin: 20px;">
+  
 #### [Section 1: Introduction](#intro)
 #### [Section 2: Methodology](#method)
 
@@ -261,3 +262,5 @@ The sentiment analysis shows that the representation of the same topic can diffe
 Topic modeling further revealed that Fox News often focuses on timely events, potentially aiming for immediate emotional impact. On the other hand, NPR emphasizes long-term environmental concerns.
 
 By employing different narratives and focusing on distinct aspects of environmental news, media outlets can substantially influence public sentiment and understanding. This awareness calls for future research into the impact of media framing, as well as the development of strategies to communicate environmental news more effectively and impartially.
+
+</div>
