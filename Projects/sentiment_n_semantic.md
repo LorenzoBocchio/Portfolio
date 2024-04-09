@@ -122,28 +122,23 @@ The aim is to understand whether environmental issues are consistently dramatize
 
 
 
-
-
 Topic modeling is a method for unsupervised classification of documents, similar to clustering on numeric data, which recognizes natural hidden groups by identifying clusters of similar words.
 
 The specific variant of topic modeling used in this project is called Latent Dirichlet Allocation (LDA). LDA is based on the assumption that each document is a mixture of various topics, and that every word within the document can be attributed to one of those topics. While these topics are not assigned labels, a close examination of the words most strongly associated with each one can offer interpretive insights into the semantic content of the topic.
 
-LDA operates under a probabilistic framework involving a two-stage generative process for text. 
-In the first stage, for each document $$i$$ in $$i = 1, ..., N$$, (with $$N$$ being the number of documents in the corpus) a topic distribution is sampled from a Dirichlet distribution $$\theta_i \sim Dir(\alpha)$$, which requires as input \alpha, a K-dimensional vector, with K denoting the total number of topics.
+LDA operates under a probabilistic framework involving a two-stage generative process for text. In the first stage, for each document *i* in *i = 1, ..., N*, (with *N* being the number of documents in the corpus) a topic distribution is sampled from a Dirichlet distribution, where *θ<sub>i</sub>* is sampled from Dir(α), which requires as input α, a K-dimensional vector, with K denoting the total number of topics.
 
-In the second stage, for each of the K topics, a word distribution is sampled from another Dirichlet distribution $$\phi_{k} \sim Dir(\beta)$$, requiring $$\beta$$, a V-dimensional vector, with V representing the size of the vocabulary, that is the list of all unique words found in all the documents. 
+In the second stage, for each of the K topics, a word distribution is sampled from another Dirichlet distribution, where *φ<sub>k</sub>* is sampled from Dir(β), requiring β, a V-dimensional vector, with V representing the size of the vocabulary, that is the list of all unique words found in all the documents.
 
-Going into details, for the texts building operation, a topic is sampled from a multinomial distribution $$z_{ij} \sim Multinomial(\theta_i)$$, and then a word $$w_{ij} \sim Multinomial(\phi_{z_{ij}})$$ is chosen.
+Going into details, for the texts building operation, a topic is sampled from a multinomial distribution, and then a word is chosen based on this distribution. This process involves sampling a topic *z<sub>ij</sub>* from a multinomial distribution Multinomial(θ<sub>i</sub>), and then a word *w<sub>ij</sub>* is sampled from Multinomial(φ<sub>z<sub>ij</sub></sub>).
 
-This two-stage process is iteratively conducted until the entire corpus has been generated, providing a topic mixture for each document and a word distribution for each topic. 
+This two-stage process is iteratively conducted until the entire corpus has been generated, providing a topic mixture for each document and a word distribution for each topic.
 
-The implementation of LDA used in this research comes from the Scikit-learn library. The model needs the input in the form of a bag-of-words model, which is a representation of text that describes the occurrence of words within a document. 
+The implementation of LDA used in this research comes from the Scikit-learn library. The model needs the input in the form of a bag-of-words model, which is a representation of text that describes the occurrence of words within a document.
 
-To choose the optimal number of topics, two measures have been used: perplexity and coherence scores. Perplexity is a statistical metric utilized to determine how well a probabilistic model predicts a sample, and it is typically used to compare different probabilistic models. In the context of LDA, a lower perplexity score suggests superior generalization.
-Coherence score measures the degree of semantic similarity, thus providing an understanding of the topic's interpretability: a higher coherence score indicates that the topic's words collectively make more sense. 
+To choose the optimal number of topics, two measures have been used: perplexity and coherence scores. Perplexity is a statistical metric utilized to determine how well a probabilistic model predicts a sample, and it is typically used to compare different probabilistic models. In the context of LDA, a lower perplexity score suggests superior generalization. Coherence score measures the degree of semantic similarity, thus providing an understanding of the topic's interpretability: a higher coherence score indicates that the topic's words collectively make more sense.
 
 Since a correct clustering of texts does not exist per se, and topic modeling is merely an interpretation study, the final choice of the number of topics is also based on the interpretability of the groups that LDA creates. This means that having a low number of clusters would be too general, and, similarly, a high number of clusters would overfit. The number of topics that was decided for each outlet is 10.
-
 
 ## Section 3: Results
 
