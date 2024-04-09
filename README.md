@@ -34,7 +34,7 @@
 - Statistical Methods for Finance
 - Databases
 
----
+<div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
 # **Technical Skills**
 
@@ -43,7 +43,7 @@
 - **SQL (Intermediate)**
 - **SAS (Basic)**
 
----
+<div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
 # **Projects**
 
@@ -65,7 +65,7 @@ The objective was using PCA and projection pursuit to cluster a dataset with hig
 ### **Dissecting Comedy: Sentiment Analysis, Classification and Topic Modelling of Text Data using R (June 2021)**
 Scraped and analyzed 228 Comedy Specials' scripts for the Statistical Methods for Data Science exam. Built a metric based on obscene language for classification and performed topic modeling for clustering.
 
----
+<div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
 # **Extra-Curricular Activities**
 
