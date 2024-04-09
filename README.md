@@ -17,7 +17,8 @@
 ### **Master's in Statistical Sciences (Data Science curriculum)**
 **Institution:** University of Bologna, Italy  
 **Year:** 09/2021 - 03/2024  
-**Final Mark:** 110/110 cum laude  
+**Final Mark:** 110/110 cum laude 
+**Thesis:** "Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods"
 **Relevant Coursework:**
 - Machine Learning Systems for Data Science
 - Statistical Models and Applications
@@ -74,16 +75,16 @@ Scraped and analyzed 228 Comedy Specials' scripts for the Statistical Methods fo
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
-# **Extra-Curricular Activities**
+# **Student-Jobs and Volunteering**
 
 ### **Partnership Manager for ESN Denmark**
-**Institution:** National Board Support aiming at collaborating with stakeholders to establish valuable partnerships  
+**Role:** As part of Erasmus Student Network (ESN) — the largest student non-profit in Europe — leading stakeholder collaborations at the national level, with a key focus on driving sustainable partnership negotiations.  
 **Year:** (05/2023 - Present)
 
 ### **Active Member of ESN Aarhus**
-**Institution:** Organizing events and parties for international students, promoting inclusivity and cultural exchange  
+**Role:** Organizing international student events, emphasizing inclusion and cultural exchange.
 **Year:** (01/2023 - Present)
 
 ### **Volunteer for Studenterhus Aarhus**
-**Institution:** Bartender  
+**Role:** Bartender  
 **Year:** (10/2022 - Present)
