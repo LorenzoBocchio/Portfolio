@@ -45,7 +45,7 @@
 
 # Projects
 
-##[Sentiment and Semantics: Applying NLP to Uncover Media Framing Techniques in Environmental News (May 2023)](Projects/sentiment_n_semantic.md)
+## [Sentiment and Semantics: Applying NLP to Uncover Media Framing Techniques in Environmental News (May 2023)](Projects/sentiment_n_semantic.md)
 
 Trying to find differences between the framing of environmental news in conservative media versus liberal media.
 
