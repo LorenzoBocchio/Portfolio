@@ -65,7 +65,7 @@ With this method, the dataset is composed of 1132 Fox News articles ranging from
 
 <a id='Preprocessing'></a>
 
-The very first procedure needed to apply natural language processing (NLP) techniques is the preprocessing. Preprocessing aims to prepare the data for the subsequent statistical analysis. Usernames, hashtags, URLs, emojis, punctuation, numbers are removed from the headlines and the leads. Underscores, backslashes, and hyphens are replaced with a word space. Headlines and leads are transformed into lowercase characters, and stopwords are removed from these column. The stopwords dictionary is taken from the Python library \textit{NLTK}, to which was added a new list of words specific of the scraped data. This added words don't include actual useful information, such as "download" or "transcript".
+The very first procedure needed to apply natural language processing (NLP) techniques is the preprocessing. Preprocessing aims to prepare the data for the subsequent statistical analysis. Usernames, hashtags, URLs, emojis, punctuation, numbers are removed from the headlines and the leads. Underscores, backslashes, and hyphens are replaced with a word space. Headlines and leads are transformed into lowercase characters, and stopwords are removed from these column. The stopwords dictionary is taken from the Python library <i>NLTK</i>, to which was added a new list of words specific of the scraped data. This added words don't include actual useful information, such as "download" or "transcript".
 
 The next operation is tokenization. Tokenization is a procedure that divides a string of text into an array of single words. It is applied to headlines and leads.
 
