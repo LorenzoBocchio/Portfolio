@@ -55,7 +55,7 @@ Statistical Consultancy for Dr. Setti and Dr. Menko. Comparing the distributions
 ## Application of Hidden Markov Models to Longitudinal Data (November 2022)
 For the Advanced Statistical Learning course. Focused on the theoretical application of HMMs to longitudinal data, applying parameters' pooling and discrete or continuous random effects.
 
-## Clustering tweets with Vectorization algorithms using Python (February 2022)
+## [Clustering tweets with Vectorization algorithms using Python (February 2022)](Projects/covid_tweet_clustering.md)
 For the Machine Learning Systems For Data Science exam. Tested different clustering techniques (K-Means, DBSCAN, BIRCH, Hierarchical Agglomerative) on almost a million tweets. Applied TF-IDF and CountVectorizer to convert data from a raw format into vectors of real numbers.
 
 ## Identification of clusters with Projection Pursuit-based methods (Bachelor Thesis, September 2021)
