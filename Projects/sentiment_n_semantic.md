@@ -129,7 +129,7 @@ Topic modeling is a method for unsupervised classification of documents, similar
 The specific variant of topic modeling used in this project is called Latent Dirichlet Allocation (LDA). LDA is based on the assumption that each document is a mixture of various topics, and that every word within the document can be attributed to one of those topics. While these topics are not assigned labels, a close examination of the words most strongly associated with each one can offer interpretive insights into the semantic content of the topic.
 
 LDA operates under a probabilistic framework involving a two-stage generative process for text. 
-In the first stage, for each document $$i$$ in $$i = 1, ..., N$$, (with $$N$$ being the number of documents in the corpus) a topic distribution is sampled from a Dirichlet distribution $$\theta_i \sim Dir(\alpha)$$, which requires as input $$\alpha$$, a K-dimensional vector, with K denoting the total number of topics.
+In the first stage, for each document $$i$$ in $$i = 1, ..., N$$, (with $$N$$ being the number of documents in the corpus) a topic distribution is sampled from a Dirichlet distribution $\theta_i \sim Dir(\alpha)$, which requires as input $$\alpha$$, a K-dimensional vector, with K denoting the total number of topics.
 
 In the second stage, for each of the K topics, a word distribution is sampled from another Dirichlet distribution $$\phi_{k} \sim Dir(\beta)$$, requiring $$\beta$$, a V-dimensional vector, with V representing the size of the vocabulary, that is the list of all unique words found in all the documents. 
 
