@@ -9,8 +9,6 @@
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/lorenzobocchio31/)
 - Current Location: Aarhus, Denmark
 
-![Optional Image Alt Text](path/to/your/image.jpg "Image Title")
-es:** English (C1), Danish (A1), Italian (native)
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
