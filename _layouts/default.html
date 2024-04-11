@@ -49,10 +49,11 @@
       {{ content }}
 
       </section>
-      <footer> 
-     
+       <footer>
+        {% if site.github.is_project_page %}
+        <p> </p>
+        <br>
       </footer>
-
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
