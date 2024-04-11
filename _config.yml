@@ -2,10 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:<h1>
-        Lorenzo Bocchio<br>
-        <small>Statistics | Data Science</small>
-      </h1>
+title:Lorenzo Bocchio
  # the website title (if blank, full name will be used instead)
 first_name: Lorenzo
 middle_name:
