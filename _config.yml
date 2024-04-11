@@ -2,8 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lorenzo Bocchio
-subtitle: Statistics | Data Science
+title: |
+  Lorenzo Bocchio
+  Statistics | Data Science
 
  # the website title (if blank, full name will be used instead)
 first_name: Lorenzo
@@ -11,6 +12,10 @@ middle_name:
 last_name: Bocchio
 email: lorenzobocchio31@gmail.com
 description: "Statistician based in Aarhus, with a passion for turning complex data into meaningful insights. My expertise lies in designing and executing both independent and collaborative projects, with a keen focus on innovative data solutions. I am a positive-minded team player with strong communicative skills, always eager to embrace new challenges and learning opportunities. I thrive in interdisciplinary environments, where collaborative effort is key to achieving shared goals."
+**Contact:**
+- Email: [lorenzobocchio31@gmail.com](mailto:lorenzobocchio31@gmail.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/lorenzobocchio31/)
+- Current Location: Aarhus, Denmark
 
   
 footer_text: >
