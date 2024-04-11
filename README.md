@@ -2,12 +2,15 @@
 
 **Full Name:** Lorenzo Bocchio
 
-**Languages:** English (C1), Danish (A1), Italian (native)
-
 **Contact:**
 - Email: [lorenzobocchio31@gmail.com](mailto:lorenzobocchio31@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/lorenzobocchio31/)
 - Current Location: Aarhus, Denmark
+
+**Languages:** 
+- English (C2)
+- Italian (native)
+- Danish (A1)
 
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
@@ -15,12 +18,10 @@
 # **Education**
 
 ### **Master's in Statistical Sciences (Data Science curriculum)**
-**Institution:** University of Bologna, Italy  
-**Year:** 09/2021 - 03/2024  
-**Final Mark:** 110/110 cum laude
-
-**Thesis:** "Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods"
-
+**Institution:** University of Bologna, Italy<br>
+**Year:** 09/2021 - 03/2024<br>
+**Final Mark:** 110/110 cum laude<br>
+**Thesis:** "Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods"<br>
 **Relevant Coursework:**
 - Machine Learning Systems for Data Science
 - Statistical Models and Applications
@@ -42,7 +43,7 @@
 **Relevant Coursework:**
 - Statistical Methods for Big Data
 - Statistical Methods for Finance
-- Databases
+- Analysis of Multidimensional Data
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
