@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  Clustering Applied on Covid-19 themed tweets
 description: Comparing various clustering techniques applied on tweets about Covid-19 in the United States
 img: assets/img/covid_tweet.png
