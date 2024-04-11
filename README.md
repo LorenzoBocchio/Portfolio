@@ -64,7 +64,7 @@ Finding differences between the framing of environmental news in conservative me
 ### **Timing of peridural catheter removal in the mother with risk factors for post-partum complications and without risk factors (November 2022)**
 Statistical Consultancy for Dr. Setti and Dr. Menko. Comparing the distributions of complications in ASST Spedali Civili di Brescia parturients divided by risk factors.
 
-### **Application of Hidden Markov Models to Longitudinal Data (November 2022)**
+### [Application of Hidden Markov Models to Longitudinal Data (November 2022)](Projects/hmm.md)
 Focused on the theoretical application of HMMs to longitudinal data, applying parameters' pooling and discrete or continuous random effects.
 
 ### [Clustering tweets with Vectorization algorithms using Python (February 2022)](Projects/covid_tweet_clustering.md)
