@@ -6,7 +6,6 @@ img: assets/img/project_hmm/logo.jpg
 importance: 3
 category: Theoretical Insights
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,7 +52,8 @@ category: Theoretical Insights
         <li>We need to estimate only six quantities: \( \gamma_{12}, \gamma_{21}, \mu_1, \sigma_1, \mu_2, \sigma_2 \).</li>
     </ul>
     <p>- The likelihood of this model is much more demanding to compute:</p>
-    <p>\[ L = \prod_{k = 1}^{K} \int_{0}^{\infty} \int_{0}^{\infty}  \delta P(x_{1k})\Gamma P(x_{2k})\Gamma\ldots\Gamma P (x_{Tk})1' \cdot f(\lambda_1, \mu_1, \sigma_1 ) f(\lambda_2, \mu_2, \sigma_2 ) d \lambda_1 d \lambda_2 \]</p>
+    <p>\[ L = \prod_{k = 1}^{K} \int_{0}^{\infty} \int_{0}^{\infty}  \delta P(x_{1k})\Gamma P(x_{2k})\Gamma\ldots\Gamma 
+    P (x_{Tk})1' \cdot f(\lambda_1, \mu_1, \sigma_1 ) f(\lambda_2, \mu_2, \sigma_2 ) d \lambda_1 d \lambda_2 \]</p>
     <p>\( f(\lambda_1, \mu_1, \sigma_1 ) \) is the p.d.f. of the gamma distribution for the Poisson mean in state 1, and \( f(\lambda_2, \mu_2, \sigma_2 ) \) for that in state 2.</p>
     <p>- One can also specify bivariate distributions, allowing for possible dependence between random effects, adding one additional parameter, a correlation coefficient.</p>
     <p>- A numerical or EM-based maximization of the likelihood is only feasible when there are no more than 2 random effects. Simulation-based methods, such as Monte Carlo EM or MCMC, seem preferable in the other cases. A computationally less intensive approach uses discrete distributions for the random effects.</p>
