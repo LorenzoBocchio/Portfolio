@@ -17,8 +17,10 @@
 ### **Master's in Statistical Sciences (Data Science curriculum)**
 **Institution:** University of Bologna, Italy  
 **Year:** 09/2021 - 03/2024  
-**Final Mark:** 110/110 cum laude 
+**Final Mark:** 110/110 cum laude
+
 **Thesis:** "Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods"
+
 **Relevant Coursework:**
 - Machine Learning Systems for Data Science
 - Statistical Models and Applications
@@ -47,7 +49,7 @@
 # **Technical Skills**
 
 - **R (Proficient):** Worked extensively with Tidyverse and RMarkdown for University and real-world projects
-- **Python (Proficient):** Worked extensively with NumPy, Pandas, TensorFlow, Matplotlib, Seaborn, Scikit-Learn, Plotly, and NLTK
+- **Python (Proficient):** Worked extensively with NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Plotly, and NLTK
 - **SQL (Intermediate)**
 - **SAS (Basic)**
 
@@ -56,22 +58,22 @@
 # **Projects**
 
 ### [Sentiment and Semantics: Applying NLP to Uncover Media Framing Techniques in Environmental News (May 2023)](Projects/sentiment_n_semantic.md)
-Trying to find differences between the framing of environmental news in conservative media versus liberal media.
+Finding differences between the framing of environmental news in conservative media versus liberal media by employing NLP techniques.
 
 ### **Timing of peridural catheter removal in the mother with risk factors for post-partum complications and without risk factors (November 2022)**
 Statistical Consultancy for Dr. Setti and Dr. Menko. Comparing the distributions of complications in ASST Spedali Civili di Brescia parturients divided by risk factors.
 
 ### **Application of Hidden Markov Models to Longitudinal Data (November 2022)**
-For the Advanced Statistical Learning course. Focused on the theoretical application of HMMs to longitudinal data, applying parameters' pooling and discrete or continuous random effects.
+Focused on the theoretical application of HMMs to longitudinal data, applying parameters' pooling and discrete or continuous random effects.
 
 ### [Clustering tweets with Vectorization algorithms using Python (February 2022)](Projects/covid_tweet_clustering.md)
-For the Machine Learning Systems For Data Science exam. Tested different clustering techniques (K-Means, DBSCAN, BIRCH, Hierarchical Agglomerative) on almost a million tweets. Applied TF-IDF and CountVectorizer to convert data from a raw format into vectors of real numbers.
+Testing various clustering techniques (K-Means, DBSCAN, BIRCH, Hierarchical Agglomerative) on almost a million tweets. Applied TF-IDF and CountVectorizer to convert data from a raw format into vectors of real numbers.
 
 ### **Identification of clusters with Projection Pursuit-based methods (Bachelor Thesis, September 2021)**
 The objective was using PCA and projection pursuit to cluster a dataset with high dimensionality, composed of 8221 variables measured on 34 subjects. In order to overcome the absence of gaussianity, the Wilcoxon-Mann-Whitney test was used to compare the distribution of subpopulations.
 
 ### **Dissecting Comedy: Sentiment Analysis, Classification and Topic Modelling of Text Data using R (June 2021)**
-Scraped and analyzed 228 Comedy Specials' scripts for the Statistical Methods for Data Science exam. Built a metric based on obscene language for classification and performed topic modeling for clustering.
+Scraped and analyzed 228 Comedy Specials' scripts. Built a metric based on obscene language for classification and performed topic modeling for clustering.
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
