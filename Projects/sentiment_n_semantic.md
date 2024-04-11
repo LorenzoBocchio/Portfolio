@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Sentiment and Semantics: Applying NLP to Uncover Media Framing Techniques in Environmental News"
 description: Analyzing and comparing the framing of environmental news by Fox News and National Public Radio (NPR) using NLP
 
