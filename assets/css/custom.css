@@ -1,13 +1,20 @@
 /* Custom Styles */
 
-/* Increase font size for body */
-body {
-    font-size: 26px; /* Adjust this value as needed */
+/* Increase font size for body and ensure it applies broadly */
+body, p, li, h1, h2, h3, h4, h5, h6 {
+    font-size: 22px; /* This ensures that the font size is increased universally */
 }
 
-/* Add margins to main content */
-main {
+/* Apply margins and padding to body to affect all pages */
+body {
     margin: 20px auto;
-    max-width: 70%; /* Adjust width as needed */
-    padding: 20px; /* This adds padding inside the container */
+    max-width: 90%; /* Adjust width as needed */
+    padding: 20px; /* This adds padding around the content of all pages */
+}
+
+/* If specific sections or divs are used, target them as well */
+section, .content, .post-content {
+    margin: 20px auto;
+    max-width: 90%;
+    padding: 20px;
 }
