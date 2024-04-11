@@ -79,8 +79,8 @@ When dealing with textual data, a first look at the content of the news can be o
 <table>
 <caption> Figure 1: WordClouds of Fox News and NPR</caption>
   <tr>
-    <td><img src="../../assets/img/project_env/1.png" width="95%"></td>
-    <td><img src="../../assets/img/project_env/2.png" width="95%"></td>
+    <td><img src="../../assets/img/project_env/1.png" width="155%"></td>
+    <td><img src="../../assets/img/project_env/2.png" width="155%"></td>
   </tr>
 </table>
 
@@ -90,8 +90,8 @@ Examining the two WordClouds, it is complex to find specific differences, since 
 <table>
 <caption>Figure 2: Bigrams and Trigrams of Fox News and NPR</caption>
   <tr>
-    <td><img src="../../assets/img/project_env/bi_tri_foxNews.png" width="95%"></td>
-    <td><img src="../../assets/img/project_env/bi_tri_NPR.png" width="95%"></td>
+    <td><img src="../../assets/img/project_env/bi_tri_foxNews.png" width="155%"></td>
+    <td><img src="../../assets/img/project_env/bi_tri_NPR.png" width="155%"></td>
   </tr>
 </table>
 
@@ -213,7 +213,7 @@ In November and December 2018, a few months after the proposal of the GND, a sur
 
 
 <figure>
-    <img src="../../assets/img/project_env/gnd.png" style="width: 60%;">
+    <img src="../../assets/img/project_env/gnd.png" style="width: 80%;">
     <figcaption>Figure 6: Monthly trend of "Green New Deal" Mentions in Fox News Headline</figcaption>
 </figure>
 
