@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HMMs for longitudinal data
 description: Modeling longitudinal data with Hidden Markov Models (HMMs) to improve parameter estimation
 img: assets/img/project_hmm/logo.jpg
