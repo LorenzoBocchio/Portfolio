@@ -13,7 +13,7 @@ last_name: Bocchio
 email: lorenzobocchio31@gmail.com
 description: |
   <strong>Contact:</strong><br>
-  - Email: <a href="mailto:lorenzobocchio31@gmail.com">lorenzobocchio31@gmail.com</a><br>
+  - <a href="mailto:lorenzobocchio31@gmail.com">lorenzobocchio31@gmail.com</a><br>
   - <a href="https://www.linkedin.com/in/lorenzobocchio31/">My LinkedIn</a><br>
   - Current Location: Aarhus, Denmark<br><br>
 
@@ -26,7 +26,7 @@ description: |
   
 footer_text: >
   
-keywords:  Clustering Latent Class Models NLP Mixed Models Classification
+
 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
