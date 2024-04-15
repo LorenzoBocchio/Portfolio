@@ -20,7 +20,7 @@ I thrive in interdisciplinary environments, where collaborative effort is key to
 
 # **Education**
 
-### [Master's in Statistical Sciences (Data Science curriculum)](https://corsi.unibo.it/2cycle/StatisticalSciences)
+### [Master's Degree in Statistical Sciences (Data Science curriculum)](https://corsi.unibo.it/2cycle/StatisticalSciences)
 **Institution:** University of Bologna, Italy<br>
 **Year:** 09/2021 - 03/2024<br>
 **Final Mark:** 110/110 cum laude<br>
