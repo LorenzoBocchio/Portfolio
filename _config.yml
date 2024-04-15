@@ -12,15 +12,16 @@ middle_name:
 last_name: Bocchio
 email: lorenzobocchio31@gmail.com
 description: |
-  **Contact:**
-  - Email: [lorenzobocchio31@gmail.com](mailto:lorenzobocchio31@gmail.com)
-  - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/lorenzobocchio31/)
-  - Current Location: Aarhus, Denmark
+  <strong>Contact:</strong><br>
+  - Email: <a href="mailto:lorenzobocchio31@gmail.com">lorenzobocchio31@gmail.com</a><br>
+  - LinkedIn: <a href="https://www.linkedin.com/in/lorenzobocchio31/">My LinkedIn</a><br>
+  - Current Location: Aarhus, Denmark<br><br>
 
-  **Languages:** 
-  - English (C2)
-  - Italian (native)
+  <strong>Languages:</strong><br>
+  - English (C2)<br>
+  - Italian (native)<br>
   - Danish (A1)
+
 
 
   
