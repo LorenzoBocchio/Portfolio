@@ -2,7 +2,13 @@
 
 **Full Name:** Lorenzo Bocchio
 
-Statistician based in Aarhus, with a passion for turning complex data into meaningful insights. // My expertise lies in designing and executing both independent and collaborative projects, with a keen focus on innovative data solutions. // I am a positive-minded team player with strong communicative skills, always eager to embrace new challenges and learning opportunities.// I thrive in interdisciplinary environments, where collaborative effort is key to achieving shared goals.
+Statistician based in Aarhus, with a passion for turning complex data into meaningful insights. 
+
+My expertise lies in designing and executing both independent and collaborative projects, with a keen focus on innovative data solutions. 
+
+I am a positive-minded team player with strong communicative skills, always eager to embrace new challenges and learning opportunities.
+
+I thrive in interdisciplinary environments, where collaborative effort is key to achieving shared goals.
 
 **Languages:** 
 - English (C2)
@@ -14,7 +20,7 @@ Statistician based in Aarhus, with a passion for turning complex data into meani
 
 # **Education**
 
-### **Master's in Statistical Sciences (Data Science curriculum)**
+### [Master's in Statistical Sciences (Data Science curriculum)](https://corsi.unibo.it/2cycle/StatisticalSciences)
 **Institution:** University of Bologna, Italy<br>
 **Year:** 09/2021 - 03/2024<br>
 **Final Mark:** 110/110 cum laude<br>
@@ -32,7 +38,7 @@ Statistician based in Aarhus, with a passion for turning complex data into meani
 - Monte Carlo Simulations
 - Reinforcement Learning
 
-### **Bachelor's Degree in Statistics for Economics and Business**
+### [Bachelor's Degree in Statistics for Economics and Business](https://www.unipd.it/en/educational-offer/first-cycle-degree/science?tipo=L&scuola=SC&ordinamento=2014&key=SC2095&cg=statistics)
 **Institution:** University of Padua, Padua, Italy  
 **Year:** 10/2018 - 09/2021  
 **Final Mark:** 106/110  
