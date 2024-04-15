@@ -6,7 +6,7 @@ img: assets/img/covid_tweet.png
 importance: 1
 category: NLP Projects
 ---
-
+# **Clustering Applied on Covid-19 themed tweets**
 ## [Section 1: Preprocessing](#preproc)
 ## [Section 2: Vectorizing and Clustering](#vecclust)
 ## [Section 3: Conclusions ](#concl)
