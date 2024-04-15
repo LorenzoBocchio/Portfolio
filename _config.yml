@@ -20,7 +20,15 @@ description: |
   <strong>Languages:</strong><br>
   - English (C2)<br>
   - Italian (native)<br>
-  - Danish (A1)
+  - Danish (A1)<br><br>
+
+  <strong>Areas of Specialization:</strong><br>
+  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Clustering</span> &bull; 
+  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Latent Class Models</span> &bull; 
+  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">NLP</span> &bull; 
+  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Mixed Models</span> &bull; 
+  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Classification</span>
+
 
 
 
