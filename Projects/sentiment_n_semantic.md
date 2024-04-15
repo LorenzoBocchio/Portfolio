@@ -7,7 +7,7 @@ img: assets/img/planet.jpeg
 importance: 1
 category: NLP Projects
 ---
-  
+# **Sentiment and Semantics: Applying NLP to Uncover Media Framing Techniques in Environmental News**
 #### [Section 1: Introduction](#intro)
 #### [Section 2: Methodology](#method)
 
