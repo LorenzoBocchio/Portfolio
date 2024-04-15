@@ -4,6 +4,10 @@
 
 Statistician based in Aarhus, with a passion for turning complex data into meaningful insights. My expertise lies in designing and executing both independent and collaborative projects, with a keen focus on innovative data solutions. I am a positive-minded team player with strong communicative skills, always eager to embrace new challenges and learning opportunities. I thrive in interdisciplinary environments, where collaborative effort is key to achieving shared goals.
 
+**Languages:** 
+- English (C2)
+- Italian (native)
+- Danish (A1)
 
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
