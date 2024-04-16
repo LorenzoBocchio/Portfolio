@@ -24,7 +24,7 @@ I thrive in interdisciplinary environments, where collaborative effort is key to
 **Institution:** University of Bologna, Italy<br>
 **Year:** 09/2021 - 03/2024<br>
 **Final Mark:** 110/110 cum laude<br>
-**Thesis:** "Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods"<br>
+**Thesis:** ["Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods"](Projects/LorenzoBocchio_thesis.pdf)<br>
 **Relevant Coursework:**
 - Machine Learning Systems for Data Science
 - Statistical Models and Applications
