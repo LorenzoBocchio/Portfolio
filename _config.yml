@@ -18,11 +18,11 @@ description: |
   - Current Location: Aarhus, Denmark<br><br>
 
   <strong>Areas of Specialization:</strong><br>
-  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Clustering</span> &bull; 
-  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Latent Class Models</span> &bull; 
-  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">NLP</span> &bull; 
-  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Mixed Models</span> &bull; 
-  <span style="background-color: #headercolour; color: white; padding: 3px 8px; border-radius: 5px;">Classification</span>
+  <span style="background-color: #headercolour; padding: 3px 8px; border-radius: 5px;">Clustering</span> &bull; 
+  <span style="background-color: #headercolour; padding: 3px 8px; border-radius: 5px;">Latent Class Models</span> &bull; 
+  <span style="background-color: #headercolour; padding: 3px 8px; border-radius: 5px;">NLP</span> &bull; 
+  <span style="background-color: #headercolour; padding: 3px 8px; border-radius: 5px;">Mixed Models</span> &bull; 
+  <span style="background-color: #headercolour; padding: 3px 8px; border-radius: 5px;">Classification</span>
   
 footer_text: >
   
