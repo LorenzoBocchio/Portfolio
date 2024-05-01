@@ -55,7 +55,7 @@ I thrive in interdisciplinary environments, where collaborative effort is key to
 - **R (Proficient):** Worked extensively with Tidyverse and RMarkdown for University and real-world projects
 - **Python (Proficient):** Worked extensively with NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Plotly, and NLTK
 - **SQL (Intermediate)**
-- **SAS (Basic)**
+- **SAS (Intermediate)**
 
 <div style="height: 4px; background-color: #333; margin: 20px 0;"></div>
 
