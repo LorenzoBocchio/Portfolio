@@ -61,6 +61,12 @@ I thrive in interdisciplinary environments, where collaborative effort is key to
 
 # **Projects**
 
+### [Flexible latent class models with concomitant variables based on B-splines: a comparison among estimation methods](Projects/LorenzoBocchio_thesis.pdf)
+Enhanced the flexibility of estimation methods, assessing their impact through a simulation study and clustering of real world data.
+
+### [Council of Europe study session (November 2023)](https://www.coe.int/en/web/youth/-/take-initiative) 
+Created deliverables to empower and effectively support youth participation in democracy.
+
 ### [Sentiment and Semantics: Applying NLP to Uncover Media Framing Techniques in Environmental News (May 2023)](Projects/sentiment_n_semantic.md)
 Finding differences between the framing of environmental news in conservative media versus liberal media by employing NLP techniques.
 
